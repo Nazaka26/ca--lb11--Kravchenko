@@ -21,3 +21,4 @@
     •	pcmpeqb
     •	pmulhw
     •	packsswb
+    
